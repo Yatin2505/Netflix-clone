@@ -294,31 +294,38 @@ footer div {
 .footer-content input {
     width: 316px;
 }
-.lists{
+
+.lists {
     display: flex;
-    gap:200px;
+    gap: 200px;
 }
-.lists ul{
+
+.lists ul {
     list-style-type: none;
 }
-.lists li{
+
+.lists li {
     line-height: 2em;
-   
+
 }
-.lists a{
-  opacity: 0.8;
+
+.lists a {
+    opacity: 0.8;
 }
-.nav-lang{
-      border: 0.5px solid whitesmoke;
+
+.nav-lang {
+    border: 0.5px solid whitesmoke;
     border-radius: 5px;
     padding: 6px 36px;
-    width:min-content;
+    width: min-content;
 }
-.last-a{
+
+.last-a {
     text-decoration: underline;
     color: blue;
 }
-.bottom-buttons{
+
+.bottom-buttons {
     position: relative;
     opacity: 1;
 }
